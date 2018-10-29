@@ -12,7 +12,7 @@ Le lien de votre dépôt Github ainsi que celui de la page associée.
 
 - **Pas d'actions superflues.** Porter une attention particulière à la pertinence de chaque commit ainsi qu'à clarté et la concision du message associé.
 
-- Construisez-vous même des cas de test pour le script. 
+- Construisez vous-même des cas de test pour le script. 
 
 # Déroulement du projet
 
