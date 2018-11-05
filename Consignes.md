@@ -20,7 +20,7 @@ Le lien de votre dépôt Github ainsi que celui de la page associée.
 
 2. *Cloner* votre copie en local
 
-3. Modifier le script `fich_semaine_derniere.sh` pour qu'il effectue les actions suivantes :
+3. Créer le script `fich_semaine_derniere.sh` pour qu'il effectue les actions suivantes :
 
 - Annonce le moment de son exécution 	- Souhaite la bienvenue à l'utilisateur (utiliser une variable d'environnement) qui l'a lancé et lui demande de taper le chemin d'un répertoire 
 
