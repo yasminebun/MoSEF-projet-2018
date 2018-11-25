@@ -15,6 +15,8 @@ if [ "$yesno" = "y" ] || [ "$yesno" = "Y" ]; then
 	cd ~
 	cd $repertoire
 	ls -al
+	echo "Voici les fichiers modifiés il y a moins d'une semaine :"
+	find . -type f -mtime -7
  
 elif [ "$yesno" = "n" ] || [ "$yesno" = "N" ]; then
 	echo "D'accord, dans ce cas bonne journée à toi $USER !"
