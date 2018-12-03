@@ -4,6 +4,7 @@
 ### Objectif : 
 Ce script va te permettre de lire le contenu du répertoire demandé par l'utilisateur et existant sur sa machine.
 
+
 ### Déroulement du script : 
 
 * *First thing first !*
@@ -22,6 +23,7 @@ A présent, redirige toi sur ta home à l'aide de : `cd ~` et connecte toi à to
 Maintenant, te suffira tout simplement de *forker* le dépôt `MoSEF-projet-2018` depuis mon compte `yasminebun`. Tu verras, c'est tout simple ! Tu cliques sur l'icone `Fork` qui se trouve en haut à droite de la page internet !
 
 * *Allez, on repart sur Linux !*
+
 Récupère le lien du dépôt sur le site de **GitHub** afin de le cloner en local à l'aide de la commande : `git clone https://github.com/yasminebun/MoSEF-projet-2018.git`
 
 Vérifie que tu es bien situé dans le répertoire `Mosef-projet-2018`. Si ce n'est pas le cas, tape dans ton terminal : `cd Mosef-projet-2018`. 
@@ -29,6 +31,7 @@ Vérifie que tu es bien situé dans le répertoire `Mosef-projet-2018`. Si ce n'
 * *C'est bon, on y est enfin ! Tu peux commencer !*
 
 Afin d'exécuter le script, tu devras lancer la commander `bash fich_semaine_derniere.sh`
+
 
 ### Résultats attendus de l'exécution du script : 
 
@@ -39,6 +42,7 @@ Il te demandera par la suite quel répertoire t'intéresse, tu devras tout simpl
 Ensuite, il te demandera si tu désires connaitre le contenu de ce dernier. Ainsi, il te suffira tout simplement de taper `Y` pour ***oui*** et `N` pour ***non***. Si tu réponds `Y`, il te donnera le contenu du répertoire ainsi que la liste des fichiers qui ont été modifiés il y a moins d'une semaine. Si tu réponds `N`, il te souhaitera une bonne journée (pleine de bonnes ondes et de soleil !).
 
 Ah oui ! Par contre, il ne fera pas attention si le `Y` ou `N` est en majuscule ou minuscule. **Mais**, si tu réponds par autre chose que `Y` ou `N`, il te le rappelera et te redira ce qu'il faut taper.
+
 
 ### Fin
 C'est maintenant terminé ! Je te remercie d'avoir utilisé ce script pour lire tes fichiers ! 
