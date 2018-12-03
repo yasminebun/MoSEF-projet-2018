@@ -7,11 +7,14 @@ Ce script va te permettre de lire le contenu du répertoire demandé par l'utili
 ### Déroulement du script : 
 
 * *First thing first !*
+
 Vérifie que tu disposes bien de **git** à l'aide de la commande : `git --version`. Si ce n'est pas le cas, il te suffira tout simplement de télécharger git manuellement sur le site : `https://git-scm.com`.
 
 
 * *Te voilà prêt à commencer sur Linux !*
+
 A présent, redirige toi sur ta home à l'aide de : `cd ~` et connecte toi à ton compte **GitHub** à l'aide de ces deux commandes : 
+
  `git config --global user.name "ton nom d'utilisateur"`
 
  `git config --global user.email "ton adresse mail"`
